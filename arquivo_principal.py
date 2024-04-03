@@ -19,3 +19,6 @@ if paginas_radio == 'Enquadramento de contas':
 
 if paginas_radio == 'Taxa de gestão':
     taxa_de_gestao = stramlit_visualizacao.Taxa_de_gestao_streamlit.taxa_de_gestao_streamlit()
+
+print('sa porra')
+
